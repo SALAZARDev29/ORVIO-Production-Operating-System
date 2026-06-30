@@ -231,4 +231,3 @@ The AI never overrides the user's final decision.
 
 # END OF DOCUMENT
 
-docs(core): add CORE-003 absolute production rules
